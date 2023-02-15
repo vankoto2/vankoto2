@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanko
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React, Angular, TypeScript
+- 🌱 I’m currently working with React, TypeScript
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me it.work.bulgaria@gmail.com
 
